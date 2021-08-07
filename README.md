@@ -1,4 +1,4 @@
-##Testing AWS Amplify in Personal Projs
+# Testing AWS Amplify in Personal Projs
 
 # Getting Started with Create React App
 
